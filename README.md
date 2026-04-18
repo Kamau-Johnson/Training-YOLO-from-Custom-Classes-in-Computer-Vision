@@ -1,6 +1,6 @@
 ## 3.4 Custom Objects with YOLO
 <p float="center">
-    <img src="YOLO5.png" width="50%" /> 
+    <img src="YOLO5.PNG" width="50%" /> 
 </p
 
 ```
